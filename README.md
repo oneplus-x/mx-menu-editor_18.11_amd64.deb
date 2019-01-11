@@ -1,9 +1,6 @@
 # mx-menu-editor_18.11_amd64.deb
 MX tool for editing Xfce menu
 MX RepositoryMEPIS Community Repository MX and MEPIS Community Repository 
-
-
-
 Welcome to the MX Repository and Mepis Community Repository at teharris.net.
 
 MEPIS is a Gnu/Linux distribution based on Debian stable with KDE.  This made it a very solid Operating System and Warren Woodford's skillful implementation made it easy to install and use.
@@ -69,4 +66,4 @@ deb http://mxrepo.com/mepiscr/testrepo/ mepis8cr test  (for the Mepis 8.0 Testin
 
 Unlike the repositories for prior versions, the MX-17, MX-16, MX-15, MX-14 and MEPIS 12.0 repositories are signed. If you are running MX Linux the keys are already installed, and can always be re-installed with the included checkaptgpg program. If you are running another distribution, you can download the MX-17 public key, the MX-15/MX-16 public key, the MX-14 public key or the MEPIS 12 public key and add them using 
 sudo "apt-key add mx17repo.asc" , sudo "apt-key add mx15repo.asc" , sudo "apt-key add mx14repo.asc" or sudo "apt-key add m12repo.asc" in a Konsole.
-You may also download package lists or browse the individual packages hosted on this server here:
+You may also download package lists or browse the individual packages hosted on this server here: http://mxrepo.com/
